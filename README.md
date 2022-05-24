@@ -8,7 +8,7 @@
  
 - :speech_balloon: Ask  me about anything that you want to learn
 
--  You can reach me via Linkedin: <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="20"/></a>
+-  You can reach me via Linkedin:[](https://www.linkedin.com/in/%C3%B6zcan-%C3%A7etin-24690711a/) <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="20"/></a>
 
 ## :rocket: Skills
 <p>
